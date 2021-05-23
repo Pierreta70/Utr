@@ -1,1 +1,3 @@
-# Utr
+# maven-project
+
+Simple Maven Project
