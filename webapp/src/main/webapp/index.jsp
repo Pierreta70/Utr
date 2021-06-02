@@ -4,3 +4,4 @@
 <h1> Good job Serge on learning Devops</h1> 
 </h1>Testing our tomcat pipeline</h1> 
 </h1>Thomcat is the best java software</h1> 
+</h1>This line is for docker test</h1> 
